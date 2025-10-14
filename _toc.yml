@@ -1,0 +1,12 @@
+format: jb-book
+root: readme
+
+parts:
+  - caption: Preamble
+    chapters:
+    - file: preamble/foreword
+    - file: preamble/jupyter-book
+
+  - caption: Recipes
+    chapters:
+    - file: recipes/test
