@@ -3,7 +3,7 @@ Short Description of the dish, and why it's special for you.
 
 ![Grünkohl](../img/Grünkohl.jpg)
 
-Author: Your Name (or pseudonym)
+**Provided by:** Your Name (or pseudonym)
 
 ## Stats
 - Cooking Time: ...
