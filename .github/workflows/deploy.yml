@@ -1,0 +1,36 @@
+name: Build and Deploy Jupyter Book
+
+permissions:
+  contents: write  # Needed for ghp-import to push to gh-pages branch
+
+on:
+  push:
+    branches:
+      - main   # Runs every time you push to the 'main' branch
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -U pip
+          pip install jupyter-book ghp-import
+
+      - name: Generate TOC
+        run: python scripts/generate_toc.py
+
+      - name: Build the Jupyter Book
+        run: jupyter-book build .
+
+      - name: Deploy to GitHub Pages
+        run: ghp-import -n -p -f _build/html
