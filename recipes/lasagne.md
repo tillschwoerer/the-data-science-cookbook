@@ -30,7 +30,7 @@ Muskat
 
 Außerdem:
 300 g Lasagne sheet
-unlimited cheese, grated
+unlimited gouda cheese, grated
 
 ## Instructions
 Ragù Bolognese:
