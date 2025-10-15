@@ -33,7 +33,7 @@ It’s one of my favorite cakes.
 6. Divide dough into 6–8 equal parts.
 7. Roll each part into a thin round layer.
 8. Bake at 175°C for 5–7 minutes until lightly golden.
-9. Mix sour cream (or heavy cream) with sugar and vanilla until smooth.
+9. Mix heavy cream with sugar until smooth.
 10. Place one layer on a plate, spread cream over it.
 11. Repeat with remaining layers.
 12. Spread cream over the top layer.
