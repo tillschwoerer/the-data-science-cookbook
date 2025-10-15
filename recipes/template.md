@@ -1,7 +1,7 @@
-# Dish Name
+# Template Dish Name
 Short Description of the dish, and why it's special for you.
 
-![Grünkohl](../img/Grünkohl.jpg)
+![Grünkohl](img/Grünkohl.jpg)
 
 **Provided by:** Your Name (or pseudonym)
 
