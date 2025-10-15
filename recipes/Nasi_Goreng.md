@@ -19,14 +19,27 @@ Nasi Goreng
 - Serves: 2 Serving
 
 ## Ingredients
-- 500gr Cooked cold rice
+- 500gr cooked cold rice
 - 3 medium cloves garlic 
 - 2 large fresh chili
 - half sliced Onion
 - 1/2 teaspoon shrimp paste
 - 30ml cooking oil
 - 2 tablespoon sweet soy sauce
-- 2 pinch of salt and sugar
+- 2 pinch of salt and pepper
+- 2 eggs
 
 
+## Instructions
+1. Prepare all the ingredients, like chop the garlic and fresh chili, slice the onion..
+
+2. Heat oil in a large wok or skillet over high heat until shimmering. Add the chopped garlic, chili, onion and shrimp paste. Cook all the together, stirring constantly and scraping bottom of wok or pan to prevent paste from burning.
+
+3. Add rice to wok and stir to coat with spice paste. Add kecap manis and soy sauce. Stir and cook until rice is evenly colored and hot throughout. Season with salt and white pepper.
+
+4. Divide rice between two plates and top each plate of rice with a fried egg. Garnish with cucumber and tomato slices and shower with fried shallots, if you like. Serve immediately with kecap manis alongside for drizzling.
+
+### Sources
+- recipetineats
+- serious eats
 
