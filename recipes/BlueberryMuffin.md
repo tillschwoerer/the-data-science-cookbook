@@ -37,3 +37,7 @@ I like muffins because you can basically eat them everywhere and you don't need 
     Add the wet ingredients and stir with a spatula or whisk to combine. Do not overmix the batter! Finally, fold in the blueberries.
 - Step 5
     Divide the batter among the wells of the muffin pan. Bake for 25-30 mins or until you spot cracks on top of the muffins.
+
+## Comments
+- Feel free to add whatever fruit you like!
+- Also nice with an easy icing/frosting
