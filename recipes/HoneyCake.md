@@ -11,16 +11,16 @@ One of my favorite cakes.
 - Servings: 12
 
 ## Ingredients
-# Cake layer
--375 g flour
--100 g sugar
--3 tablespoons honey
--115 g butter
--2 eggs
--1 teaspoon baking soda
--2–3 tablespoons water
+**Cake layer**
+- 375 g flour
+- 100 g sugar
+- 3 tablespoons honey
+- 115 g butter
+- 2 eggs
+- 1 teaspoon baking soda
+- 2–3 tablespoons water
 
-# Cream filling:
+**Cream filling:**
 -480 g heavy cream
 -100 g sugar
 
