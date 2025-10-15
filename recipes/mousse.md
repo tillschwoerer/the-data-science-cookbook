@@ -11,8 +11,8 @@ Mousse Au Chocolat is not only a french classic but a standard dish that my fami
 
 ## Ingredients
 - 600 g Whipped Cream (can't be substitued by vegan alternatives, I am sorry it will not reach a mousse texture)
-- 200 g Dark Chocolate (It is key to buy GOOD chocolate, otherwise the mousse will not taste good. Don't buy cheap chocolate!!!)
-- 100 g Milk Chocolate (It is key to buy GOOD chocolate, otherwise the mousse will not taste good. Don't buy cheap chocolate!!!)
+- 200 g Dark Chocolate (around 50%) (It is key to buy GOOD chocolate, otherwise the mousse will not taste good. Don't buy cheap chocolate!!!)
+- 100 g Milk Chocolate (around 25%) (It is key to buy GOOD chocolate, otherwise the mousse will not taste good. Don't buy cheap chocolate!!!)
 - Sugar
 - Brandy (I don't believe in expensive alcohol, so you can be cheap here.)
 - Orange
