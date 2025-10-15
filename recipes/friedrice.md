@@ -25,3 +25,4 @@ A versatile and simple dish that reminds me of cozy family dinners. It's quick, 
 - Add rice and stir-fry for a few minutes.  
 - Mix in scrambled eggs, green onions, and soy sauce.  
 - Season with salt and pepper. Serve hot.
+- Best served along with a cold drink of own's choice. (Recommended: Lemon Ice Tea)
