@@ -1,4 +1,4 @@
-# Dish Name
+# Honey cake
 It’s a traditional Latvian cake that we enjoy on birthdays, name days, and other celebrations.
 It’s one of my favorite cakes.
 
@@ -11,7 +11,7 @@ It’s one of my favorite cakes.
 - Servings: 12
 
 ## Ingredients
-**Cake layer**
+**Cake layers**
 - 375 g flour
 - 100 g sugar
 - 3 tablespoons honey
