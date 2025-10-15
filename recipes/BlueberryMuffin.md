@@ -19,7 +19,7 @@ I like muffins because you can basically eat them everywhere and you don't need 
     - 1/4 tsp baking soda
     - 1/4 tsp salt
 - Wet Ingredients
-    - 180ml plant-based milk
+    - 180ml plant-based milk (i normally use oatmilk)
     - 1 tbsp lemon juice
     - 105g maple syrup
     - 30g coconut oil
