@@ -1,6 +1,6 @@
 # Dish Name
-It's a latvian cake we ate on birthdays, namesdays or other celebrations.
-One of my favorite cakes.
+It’s a traditional Latvian cake that we enjoy on birthdays, name days, and other celebrations.
+It’s one of my favorite cakes.
 
 ![HoneyCake](../img/HoneyCake.jpg)
 
@@ -21,8 +21,8 @@ One of my favorite cakes.
 - 2–3 tablespoons water
 
 **Cream filling:**
--480 g heavy cream
--100 g sugar
+- 480 g heavy cream
+- 100 g sugar
 
 ## Instructions
 1. Melt butter, sugar, and honey together in a saucepan over low heat.
