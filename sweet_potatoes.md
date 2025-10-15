@@ -3,6 +3,7 @@
 Oven baked sweet potatoes and feta cheese. 
 My go to comfort food I used to have with my flatmates when cooking together.
 
+![Grünkohl](img/sweet_potatoes.jpeg)
 
 **Provided by:** Julia
 
