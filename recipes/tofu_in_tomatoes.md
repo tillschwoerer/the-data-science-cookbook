@@ -27,4 +27,4 @@
 4. Add tomatoes and vegetable broth and let it braise.
 5. Add the fried tofu and let it cook on middle temperature (15 min). 
 6. Add pepper and maybe more fish/soy sauce if necessary and then add green onions and coriander.
-Serve with rice (please wash your rice before cooking). 
+Serve with rice (please wash your rice before cooking). If you need a recommendation for rice, any jasmine rice from the Asian supermarket will do. I always buy the one with the tiger. 
