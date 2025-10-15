@@ -18,5 +18,11 @@ Mousse Au Chocolat is not only a french classic but a standard dish that my fami
 - Orange
 
 ## Instructions
-- Step 1
-- Step 2
+- Chop the chocolate
+- Carefully heat cream in a pot on low heat and add the chopped chocolate, make sure to keep stirring so the cream won't burn.
+- Stir everything until the chocolate has incorporated completely into the cream. This will take longer than you think. It should look like thick hot chocolate.
+- Once the chocolate has melted, add sugar by taste. It should taste like a hot chocolate that is kind of nice but also kind of too sweet. It should be a little too sweet for your taste, because later the brandy will reduce the sweetness.
+- Put the cream-chocolate-mixture into a pot and put it in the fridge overnight. It should be kept in the fridge for at least 4-6 hours. It will become very thick.
+- Take the cold, thickened mixture out of the fridge and use a hand mixer to whip the mixture into a mousse. 
+- Afterwards add brandy and fresh orange juice to taste. Carefully fold it into the mousse with a spatula. Be careful with the brandy, around one tablespoon should be a good starting point!
+- ENJOY!
