@@ -15,7 +15,7 @@ My go to comfort food I used to have with my flatmates when cooking together.
 - 1.2 kg Sweet potatoes 
 - 300g Feta cheese
 - 2 cloves of garlic
-- 1 purple onion
+- 1 red onion
 - Some Rosemary, fresh if possible
 - olive oil 
 - salt and pepper 
@@ -29,7 +29,7 @@ Cut the onion into bigger pieces.
 Then put some oil into the casserole dish and add the cut sweet potatoes to it. 
 
 - Seasoning
-Add the onion to the dish. The use a garlic press to press the garlic cloves into the dish. Season with salt and pepper and some rosemary to your taste.
+Add the onion to the dish. The use a garlic press to press the garlic cloves into the dish (Cutting does work as well). Season with salt and pepper and some rosemary to your taste.
 Mix everything.
 
 - Baking
