@@ -7,3 +7,17 @@ Though it is possible to just buy (fresh or dried) **Spätzle** in any supermark
 ![Käsespätzle](https://eat.de/rezept/schwaebische-kaesespaetzle/)
 
 **Provided by:** Till
+
+## Stats
+- Cooking Time: 45 minutes
+- Servings: 4
+
+## Ingredients
+- 6	eggs
+- 500 g of flour 
+- 1 tablespoon of oil
+- 250 ml of whater
+- salt
+- 3 medium-sized onions
+- 300 g shredded Emmentaler cheese
+
