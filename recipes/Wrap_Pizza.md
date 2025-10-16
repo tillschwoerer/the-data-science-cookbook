@@ -9,6 +9,11 @@ Short Description of the dish, and why it's special for you.
 - Cooking Time: 15 Min
 - Servings: 1-2 Person 
 
+## Needed Equipment
+- Oven
+- Baking sheet
+- Knife and cutting board
+
 ## Ingredients
 
 - 1 Tortilla(s)
