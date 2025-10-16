@@ -4,7 +4,7 @@ I am originally from Baden-Württember, in the south of Germany. This region is 
 
 Though it is possible to just buy (fresh or dried) **Spätzle** in any supermarket, I would recommend to make your own Spätzle for the full experience. 
 
-![Käsespätzle](https://eat.de/rezept/schwaebische-kaesespaetzle/)
+![Käsespätzle](https://eat.de/wp-content/uploads/2024/02/schwaebische-kaesespaetzle-7071.jpg.webp)
 
 **Provided by:** Till
 
