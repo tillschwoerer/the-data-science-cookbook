@@ -28,3 +28,6 @@ Though it is possible to just buy (fresh or dried) **Spätzle** in any supermark
 4. In a large ovenproof dish, layer Spätzle, cheese and onions. Start with Spätzle and end with cheese.
 5. Bake in the oven at 200°C for about 15 minutes until the cheese is melted and slightly browned.
 
+I would recommend lettuce with it, and maybe some white whine or Hefeweizen beer.
+
+**Guada Abbedid!**
