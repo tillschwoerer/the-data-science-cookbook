@@ -11,25 +11,25 @@ Lasagne is special, because it always tastes better at home than at a restaurant
 
 ## Ingredients
 For the Bolognesesauce:
-500 g minced Meat
+500 g Minced Meat
 1 Onions
 2 Garlic
 1 Parsley
 1 EL Tomato paste
 1 Can of tomatoes
-some red wine
+some Red wine
 
 For the Béchamelsauce:
 0.5 Liter Milk
 30 g Butter
-40 g flour
+40 g Flour
 Salt and Pepper
 Lemon cest
-nutmeg
+Nutmeg
 
 Additionally:
 300 g Lasagne sheet
-unlimited gouda cheese, grated
+Unlimited gouda cheese, grated
 
 ## Instructions
 Ragù Bolognese:
