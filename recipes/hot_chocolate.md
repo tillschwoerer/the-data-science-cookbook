@@ -16,3 +16,6 @@ whipped cream or marshmallows (or both)
 3. Heat over medium heat until hot, but do not boil.
 4. Remove from heat and stir in the vanilla extract.
 5. Pour into mugs and top with whipped cream or marshmallows, if desired.
+
+# Final Remarks
+You can experiment by adding a pinch of cinnamon or chili powder. Enjoy your winter with hot chocolate
