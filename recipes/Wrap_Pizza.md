@@ -1,29 +1,15 @@
 # Dish Name
 Short Description of the dish, and why it's special for you.
 
-![Pizza Wrap](/Users/richardsterk/Downloads/wrap-pizza.jpg)
+![Pizza Wrap](../img/wrap-pizza.jpg)
 
 **Provided by:** Richard Sterk
 
 ## Stats
 - Cooking Time: 15 Min
-- Servings: ...
+- Servings: 1-2 Person 
 
 ## Ingredients
-
-- 1 Tortilla(s)
-- 2 EL Tomatenmark
-- 1 EL Wasser
-- 1 TL Pizzagewürz
-- 1 Scheibe/n Kochschinken
-- 1 Paprikaschote(n)
-- 1 kleine Zwiebel(n)
-- 1 große Tomate(n)
-- 5	Peperoni
-- 45 g Käse, geriebener
-- 1 TL Oregano
-
-Here is the translation of the ingredient list into English:
 
 - 1 Tortilla(s)
 - 2 tbsp tomato paste
@@ -45,3 +31,10 @@ Here is the translation of the ingredient list into English:
     Cut the cooked ham, bell pepper, tomato, onion, and pepperoni into small pieces and distribute them on the pizza. Of course, the toppings can be substituted as desired. Then, sprinkle the cheese evenly over the pizza and garnish it with a pinch of oregano.
 - Step 3
     Slide the pizza into the oven, preheated to 200 °C top/bottom heat, for a good 10 minutes.
+
+
+Warning! : Slide the pizza into the oven, preheated to 200 °C top/bottom heat, for a good 10 minutes. Watch closely so the edges don't burn.
+
+For a vegetarian option, use mushrooms and more bell peppers instead of ham.
+A bit of garlic powder in the tomato sauce also tastes great. :)
+
