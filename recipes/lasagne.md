@@ -25,9 +25,9 @@ For the Béchamelsauce:
 40 g flour
 Salt and Pepper
 Lemon cest
-Muskat
+nutmeg
 
-Außerdem:
+Additionally:
 300 g Lasagne sheet
 unlimited gouda cheese, grated
 
