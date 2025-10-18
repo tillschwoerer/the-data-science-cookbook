@@ -72,3 +72,10 @@ The only thing that comes into my head after a long day of classes is egusi soup
 5.  **Simmer:** Let the soup simmer for another 2-3 minutes for all the flavors to marry. Your Egusi Soup is ready!
 
 
+## Serving Suggestions
+
+Egusi soup is best served hot with a "swallow" food or simple steamed rice. Swallows are soft, pliable doughs used to scoop up the soup. Popular options include:
+* **Pounded Yam**
+* **Eba** (made from garri/cassava flakes)
+* **Fufu** (fermented cassava dough)
+* **Semovita**
