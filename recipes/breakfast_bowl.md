@@ -1,7 +1,7 @@
 # Breakfast Bowl
 A nutrient dense breakfast bowl packed with protein, healthy fats, fiber and tons of flavour for happy mornings! ☀ If I have no time in the morning to prepare it, I usually miss it so much that I'll make it for dinner...
 
-
+![Breakfast Bowl](../img/breakfast_bowl.jpg)
 
 **Provided by:** Kai
 
