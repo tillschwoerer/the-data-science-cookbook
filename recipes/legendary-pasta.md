@@ -27,7 +27,8 @@ A creamy and flavorful pasta dish with fresh baby spinach and cherry tomatoes.
 2. Add tomatoes, cook 3-4 min.
 3. Stir in spinach, cream, and broth; simmer 4-5 min.
 4. Mix in Parmesan, season with salt and pepper.
-5. Add some pasta water to the sauce.
-6. Boil pasta, drain, mix with sauce.
-7. Serve topped with Parmesan.
-8. Enjoy!
+5. Boil the pasta.
+6. After several minutes add some pasta water to the sauce.
+7. Drain the pasta and mix it with sauce.
+8. Serve topped with Parmesan.
+9. Enjoy!
