@@ -2,7 +2,7 @@
 A creamy, hearty potato soup – simple, comforting, and full of flavor.  
 I love this dish because it’s quick to make, full of vegetables, and perfect for cozy evenings.  
 
-![Grünkohl](../img/potato_soup.jpg)
+![Potato Soup](../img/potato_soup.jpg)
 
 **Provided by:** Lina
 
@@ -29,5 +29,10 @@ I love this dish because it’s quick to make, full of vegetables, and perfect f
 - Optional: chili flakes, baguette, or croutons for serving
 
 ## Instructions
-- Step 1
-- Step 2
+1. Bring the water to a boil in a large pot and add the vegetable stock.  
+2. Add the diced potatoes, carrots, and celery root. Cook for about 20 minutes.
+3. Add the chopped leek and simmer for another 5–10 minutes.  
+4. Use an immersion blender to puree the soup until creamy.  
+5. Stir in the cream and season with salt, pepper, and nutmeg.  
+6. Add freshly chopped parsley before serving.  
+7. Optional: top with chili flakes for some spice, and serve with freshly baked baguette or homemade croutons. 
