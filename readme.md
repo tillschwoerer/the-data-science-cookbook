@@ -4,7 +4,7 @@ This repository is a collaborative project created for the purpose of learning a
 
 Each participant will contribute to our collaborative Cookbook by providing a single recipe of some food that he or she likes. The goal is to learn how to use Git and Github effectively, while also creating a useful resource for everyone involved. 
 
-Every time a recipe is added, the cookbook will be automatically built and deployed as a Jupyter Book using Github Actions.
+Every time a recipe is added, the cookbook will be automatically built and deployed as a Jupyter Book using Github Actions. The Jupyter Book will be available at the following URL: https://tillschwoerer.github.io/the-data-science-cookbook. You can also click on the badge below to see the current status of the deployment workflow.
 
 [![Deploy Jupyter Book](https://github.com/tillschwoerer/the-data-science-cookbook/actions/workflows/deploy.yml/badge.svg)](https://github.com/tillschwoerer/the-data-science-cookbook/actions/workflows/deploy.yml)
 
