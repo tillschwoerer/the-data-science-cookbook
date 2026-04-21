@@ -1,7 +1,7 @@
 # Blueberry Muffin
 I like muffins because you can basically eat them everywhere and you don't need any cutlery. Everyone also loves them. And the blueberries add a nice fresh touch.
 
-![Blueberry Muffins](../img/BlueberryMuffins.jpg)
+![Blueberry Muffins](image.jpg)
 
 **Provided by:** Lina
 

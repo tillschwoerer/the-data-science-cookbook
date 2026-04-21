@@ -1,7 +1,7 @@
 # Egg Fried Rice  
 A versatile and simple dish that reminds me of cozy family dinners. It's quick, flavorful, and a perfect choice for people who prefer a quick meal prep.
 
-![Fried Rice](../img/fried_rice.jpg)
+![Fried Rice](image.jpg)
 
 **Provided by:** Natesh
 

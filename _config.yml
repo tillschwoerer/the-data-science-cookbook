@@ -1,3 +1,6 @@
 # _config.yml
 title: "Data Science Cookbook"
-author: "FH Kiel, Master Data Science, Programming Class"
+author: "HAW Kiel, Master Data Science, Programming Class"
+
+exclude_patterns:
+  - .venv/**

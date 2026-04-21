@@ -5,8 +5,31 @@ parts:
   - caption: Preamble
     chapters:
     - file: preamble/foreword
-    - file: preamble/jupyter-book
-
-  - caption: Recipes
+  - caption: 2025 Winter
     chapters:
-    - file: recipes/test
+    - file: recipes/2025-winter/blueberry-muffin/recipe
+    - file: recipes/2025-winter/breakfast-bowl/recipe
+    - file: recipes/2025-winter/choco-lava-cake/recipe
+    - file: recipes/2025-winter/dolma/recipe
+    - file: recipes/2025-winter/egusi-soup/recipe
+    - file: recipes/2025-winter/fried-rice/recipe
+    - file: recipes/2025-winter/honey-cake/recipe
+    - file: recipes/2025-winter/hot-chocolate/recipe
+    - file: recipes/2025-winter/kaesespaetzle/recipe
+    - file: recipes/2025-winter/lasagne/recipe
+    - file: recipes/2025-winter/legendary-pasta/recipe
+    - file: recipes/2025-winter/lemon-rice/recipe
+    - file: recipes/2025-winter/mousse/recipe
+    - file: recipes/2025-winter/nasi-goreng/recipe
+    - file: recipes/2025-winter/potato-soup/recipe
+    - file: recipes/2025-winter/sweet-potatoes/recipe
+    - file: recipes/2025-winter/tofu-in-tomatoes/recipe
+    - file: recipes/2025-winter/wrap-pizza/recipe
+
+  - caption: 2026 Summer
+    chapters:
+    - file: recipes/2026-summer/template/recipe
+
+  - caption: Epilogue
+    chapters:
+    - file: epilogue/jupyter-book

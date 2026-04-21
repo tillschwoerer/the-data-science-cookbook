@@ -2,7 +2,7 @@
 It’s a traditional Latvian cake that we enjoy on birthdays, name days, and other celebrations.
 It’s one of my favorite cakes.
 
-![HoneyCake](../img/HoneyCake.jpg)
+![HoneyCake](image.jpg)
 
 **Provided by:** Marta Veinberga
 

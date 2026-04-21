@@ -2,7 +2,7 @@
 A creamy, hearty potato soup – simple, comforting, and full of flavor.  
 I love this dish because it’s quick to make, full of vegetables, and perfect for cozy evenings.  
 
-![Potato Soup](../img/potato_soup.jpg)
+![Potato Soup](image.jpg)
 
 **Provided by:** Lina
 

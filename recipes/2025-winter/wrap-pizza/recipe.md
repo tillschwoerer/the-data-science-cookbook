@@ -1,7 +1,7 @@
 # Dish Name
 Short Description of the dish, and why it's special for you.
 
-![Pizza Wrap](../img/wrap-pizza.jpg)
+![Pizza Wrap](image.jpg)
 
 **Provided by:** Richard Sterk
 
