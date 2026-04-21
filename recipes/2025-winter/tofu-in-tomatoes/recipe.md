@@ -1,7 +1,7 @@
 # Tofu in Tomato Sauce
 ## (In Vietnamese: Dau Phu Sot Ca Chua)
 
-![Tofu_in_tomato_sauce](../img/tofu_in_tomatoes.jpg)
+![Tofu_in_tomato_sauce](image.jpg)
 
 **Provided by:** Julia Nguyen (with reference to my mom and [Mimi & Rose’s “Tofu in Tomato Sauce”](https://www.mimirosefoodlove.com/dau-phu-sot-ca-chua-tofu-in-tomatensauce/))
 

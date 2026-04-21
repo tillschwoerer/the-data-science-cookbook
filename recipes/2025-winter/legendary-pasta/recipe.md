@@ -2,7 +2,7 @@
 
 A creamy and flavorful pasta dish with fresh baby spinach and cherry tomatoes.
 
-![legendary-pasta](../img/legendary-pasta.jpg)
+![legendary-pasta](image.jpg)
 
 **Provided by:** Florian
 

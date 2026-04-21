@@ -1,7 +1,7 @@
 # Lasagne
 Lasagne is special, because it always tastes better at home than at a restaurant.
 
-![Lasagne](../img/lasagne.jpg)
+![Lasagne](image.jpg)
 
 **Provided by:** MiriSchm
 

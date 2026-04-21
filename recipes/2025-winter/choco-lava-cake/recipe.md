@@ -31,6 +31,6 @@
 This dessert is my favourite, it has sweet and bitter dark chocolate taste.
 
 <figure>
-  <img src="../img/choco-lava-cake.jpg" alt="Choco Lava Cake" width="900">
+  <img src="image.jpg" alt="Choco Lava Cake" width="900">
   <figcaption>Provided by: Dory Adidela · Image source: <a href="https://floursandfrostings.com/wp-content/uploads/2017/01/IMG_20170104_003650_972.jpg">Flours &amp; Frostings</a></figcaption>
 </figure>

@@ -3,7 +3,7 @@
 Dolma is a popular Azerbaijani dish made by wrapping grape leaves with a mixture of minced meat, rice, and herbs.  
 It’s one of the most traditional dishes in Azerbaijani cuisine.
 
-![Dolma](../img/dolma.jpeg)
+![Dolma](image.jpeg)
 
 
 **Provided by:** Mehdi Gurbanzade

@@ -1,7 +1,7 @@
 # The Ultimate Egusi Soup
 
 
-![Egusi and Eba](../img/egusi.png)
+![Egusi and Eba](image.png)
 
 
 ### A Taste of Nigeria 

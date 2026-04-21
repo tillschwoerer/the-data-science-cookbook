@@ -1,7 +1,7 @@
 # Mousse Au Chocolat
 Mousse Au Chocolat is not only a french classic but a standard dish that my family eats every year for christmas. Lucky for us our family recipe is not only very delicious (source: everyone) but easy to make as well. It has never failed me.
 
-![Mousse](../img/mousse-au-chocolat.jpg)
+![Mousse](image.jpg)
 
 **Provided by:** Caro
 

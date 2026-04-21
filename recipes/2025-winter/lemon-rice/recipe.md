@@ -1,6 +1,6 @@
 # Lemon Rice
 
-![Lemon Rice](../img/lemon-rice.jpg)
+![Lemon Rice](image.jpg)
 
 ## Ingredients
 - 1 cup rice

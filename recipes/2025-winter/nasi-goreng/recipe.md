@@ -6,7 +6,7 @@ The thing that distinguishes it from other fried rice dishes is the sauce is mad
 I love this dish because the recipe is so simple and it tastes amazing. It is one of my comfort foods, whenever i miss my homecountry.
 
 Nasi Goreng 
-![NasiGoreng](../img/nasi-goreng.webp)
+![NasiGoreng](image.webp)
 
 **Provided by:** Meliona
 
