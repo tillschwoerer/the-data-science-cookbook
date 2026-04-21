@@ -4,7 +4,7 @@
 ![Egusi and Eba](image.png)
 
 
-### A Taste of Nigeria 
+## A Taste of Nigeria 
 
 The only thing that comes into my head after a long day of classes is egusi soup with 'plenty passengers'. It has a nutty taste that makes me feel like a good night's rest is assured and can be paired with a swallow or rice.
 
@@ -18,26 +18,26 @@ The only thing that comes into my head after a long day of classes is egusi soup
 
 ## Ingredients
 
-#### For the Soup Base
+### For the Soup Base
 * 4 cups (500g) **Egusi** (Melon seeds) or pumpkin seeds, ground
 * 3 cooking spoons **Red Palm Oil**
 * 4-5 cups **Meat/Fish Stock** (and hot water as needed)
 * 1 small **Ogiri Okpei** (optional, for traditional flavor)
 
-#### Proteins (The "Passengers")
+### Proteins (The "Passengers")
 * **Beef** (your preferred cut)
 * **Shaki** (Cow Tripe)
 * **Dry Fish**
 * **Stockfish**
 * **Kpomo** (Cow skin)
 
-#### Seasoning & Aromatics
+### Seasoning & Aromatics
 * 2 tablespoons **Ground Crayfish**
 * **Ground Red Pepper** (to taste)
 * **Salt** (to taste)
 * 3 small beef flavoured **Stock Cubes** (Maggi or Knorr)
 
-#### Vegetable
+### Vegetable
 * A generous bunch of **Nigerian Pumpkin Leaves** (Ugu)
 * *Alternatives*: Spinach or washed Bitter Leaf
 * *Alternative to the alternative*: Kale leaf

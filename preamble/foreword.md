@@ -1,23 +1,24 @@
 # Foreword from the Chef
 
-**Cooking is like doing Data Science**
+## Cooking is like doing Data Science
 
 You 
 - start with raw ingredients (**messy data**)
-- should make sure that the ingredients are fresh and good (**garbage in, garbage out**)
+- make sure that the ingredients are fresh and good (otherwise: **garbage in, garbage out**)
 - clean and chop the ingredients (**preprocessing**)
 - follow a recipe (**modelling pipeline**)
-- should avoid adding too much salt (**overfitting**)
-- may experiment with varying spices (**hyperparameter tuning**) 
+- should avoid adding too much salt (**avoid overfitting**)
+- experiment with varying spices (**hyperparameter optimization**) 
 - let friends taste your dish (**evaluation**)
 - hope that even strangers will like it  (**generalization to new data**).
 
 ---
 
-In this spirit, we - the Programming class of the Master Data Science at Fachhochschule Kiel - proudly presents: **THE DATA SCIENCE COOKBOOK**. Here, we will assemble our most loved (food!) recipes, in case we manage to beat the dangerous Git and Github monster. Let's see whether our cooking skills are on par with our data science skills.
+In this spirit, we - the Programming class of the Master Data Science at HAW Kiel - proudly presents: **THE DATA SCIENCE COOKBOOK**. Here, we will assemble our most loved (food!) recipes, in case we manage to beat the dangerous Git and Github monster. Let's see whether our cooking skills are on par with our data science skills.
 
 --- 
-Just to remind ourselves of good habits:
+
+## Our kitchen is like Git and Github
 
 - When experimenting with risky ingredients, test it in a separate pot first (**git branch**). 
 - Take repeatedly notes about all ingredients and cooking steps (**git commit**).  
@@ -26,5 +27,3 @@ Just to remind ourselves of good habits:
 - Let us know (**Github Issue**) if you would like to see more recipes (**feature requests**) or if you want some recipe to be improved (**bug report**)!
 
 Happy cooking - happy gitting!
-
----

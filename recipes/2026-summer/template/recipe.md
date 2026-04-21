@@ -1,4 +1,4 @@
-# Templage
+# Template
 Short Description of the dish, and why it's special for you.
 
 ![Alternative Title for your Image](image.jpg)
