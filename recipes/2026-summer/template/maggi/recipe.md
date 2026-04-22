@@ -18,4 +18,4 @@
 5 minutes
 
 ## Tips
-- Add butter for taste
+- Add butter for taste.
