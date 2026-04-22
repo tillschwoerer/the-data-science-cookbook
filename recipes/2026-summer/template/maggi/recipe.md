@@ -1,6 +1,6 @@
 
 
-
+![Maggi](image.jpg)
 
 # Maggi Noodles
 
