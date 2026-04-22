@@ -1,5 +1,5 @@
 # Template
-The german pancake is a flat dense pancake, which is thicker than the french crepe, but way thinner than the american pancake.
+The german pancake is a flat dense pancake, which is thicker than the french crêpe, but way thinner than the fluffy american pancake.
 For me it's a typical dish from my youth, which is easy to make and depending your preference you can add savoury or sweet toppings.
 
 ![german pancake tower](german-pancake.jpeg)
