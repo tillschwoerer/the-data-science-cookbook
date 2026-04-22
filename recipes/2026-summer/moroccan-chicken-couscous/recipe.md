@@ -2,7 +2,7 @@
 
 A classic dish from Moroccan cuisine, traditionally served on Fridays in many families. Tender chicken slowly simmers with colorful vegetables, chickpeas, and the signature spice blend Ras el Hanout until the flavors meld deeply. Served on fluffy, golden couscous. Simple, warming, and full of Maghreb sunshine.
 
-![Alternative Title for your Image](image.png)
+![Moroccan couscous with chicken](image.png)
 
 Provided by: Yaacoub Harkat (or pseudonym)
 
