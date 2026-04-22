@@ -57,8 +57,7 @@ Provided by: Yaacoub Harkat (or pseudonym)
 
 
 
-> [!NOTE]
-> For even more authenticity, add a finely chopped preserved lemon along with the vegetables. If you like it spicier, serve with harissa on the side. The dish tastes even better the next day — ideal for meal prep. Instead of Ras el Hanout, you can also use your own blend of the individual spices.
+> **Note:** For even more authenticity, add a finely chopped preserved lemon along with the vegetables. If you like it spicier, serve with harissa on the side. The dish tastes even better the next day — ideal for meal prep. Instead of Ras el Hanout, you can also use your own blend of the individual spices.
 
 
 Dima Maghreb!
