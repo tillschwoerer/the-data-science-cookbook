@@ -3,7 +3,7 @@
 ## 📝 Description
 Shakshuka is a flavorful and comforting dish originating from North Africa, widely enjoyed across countries like Tunisia, Libya, and Morocco. It consists of poached eggs simmered in a rich, spiced tomato and pepper sauce, often served with crusty bread for dipping. It’s a popular breakfast or brunch dish but works just as well for lunch or dinner.
 
-![Alternative Title for your Image](shakshuka.jpeg)
+![Shakshuka for two People](shakshuka.jpeg)
 
 **Provided by:** Julian Klopsch
 
