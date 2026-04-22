@@ -54,3 +54,9 @@ Provided by: Yaacoub Harkat (or pseudonym)
 6. **Add zucchini and chickpeas:** Stir in the **2** **zucchini, cut into chunks** and **240** **grams** **chickpeas (canned, drained)**. Simmer for another 10–15 minutes until everything is tender and the chicken is cooked through.
 7. **Prepare the couscous:** Bring the **350** **milliliters** **water or broth (for the couscous)** to a boil with a pinch of salt. Remove from heat, stir in the **300** **grams** **couscous**, add the **30** **grams** **butter** and optionally the **50** **grams** **raisins (optional)**. Cover and let steam for 5–7 minutes, then fluff with a fork.
 8. Season & serve: Finish the stew with half of the **3** **tablespoons** **fresh cilantro, chopped** and **3** **tablespoons** **fresh parsley, chopped**. Place the couscous on plates, arrange the chicken with vegetables and sauce on top. Garnish with the remaining cilantro, parsley, and **2** **tablespoons** **toasted slivered almonds (for garnish)**.
+
+
+
+```{note}
+Tips: For even more authenticity, add a finely chopped preserved lemon along with the vegetables. If you like it spicier, serve with harissa on the side. The dish tastes even better the next day — ideal for meal prep. Instead of Ras el Hanout, you can also use your own blend of the individual spices.
+```
