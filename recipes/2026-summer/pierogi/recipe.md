@@ -1,6 +1,6 @@
 # Pierogi
 
-Very typical Polish dish is pierogi with various fillings. Below recipe for my favorite kind of pierogi, filled with potatoes and cheese.
+Very typical Polish dish is pierogi with various fillings. Below you will find a recipe for my favorite kind of pierogi, filled with potatoes and cheese.
 
 ### Ingredients for the batter
  - 500 g of flour
