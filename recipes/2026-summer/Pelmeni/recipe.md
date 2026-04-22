@@ -2,6 +2,7 @@
 
 Pelmeni are the soul of Russian cuisine – small, hand-shaped dumplings filled with juicy minced meat. Growing up, we made them every Sunday with the whole family gathered around the table, folding dumplings together. The smell of freshly cooked pelmeni with butter and sour cream is pure nostalgia.
 
+![Pelmeschki](image.jpg)
 
 **Provided by:** Babushka Natascha
 
