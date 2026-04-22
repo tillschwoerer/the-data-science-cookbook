@@ -4,7 +4,7 @@ A classic dish from Moroccan cuisine, traditionally served on Fridays in many fa
 
 ![Moroccan couscous with chicken](image.png)
 
-Provided by: Yaacoub Harkat (or pseudonym)
+Provided by: Yaacoub Harkat
 
 ## Stats
 
