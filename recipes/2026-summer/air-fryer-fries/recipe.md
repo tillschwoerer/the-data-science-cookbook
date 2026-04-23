@@ -13,7 +13,7 @@ Air fryer fries are a simple and reliable option for a relaxed soccer or NFL eve
 ## Ingredients
 
 ### Fries
-- 200 g fresh potatoes  
+- 300 g fresh potatoes  
 - Olive oil spray  
 - French fries seasoning  
 
