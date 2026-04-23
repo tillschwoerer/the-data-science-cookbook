@@ -2,6 +2,8 @@
 
 Air fryer fries are a simple and reliable option for a relaxed soccer or NFL evening. Made from fresh potatoes, they turn out crispy on the outside and soft inside with minimal oil. Served with curry ketchup, mayonnaise, and homemade herb quark, this is a classic snack setup.
 
+![Air Fryer Fries](image.jpg)
+
 **Provided by:** Ethan Vetter the Air Fryer Chef
 
 ## Stats
