@@ -1,5 +1,11 @@
 # Chocolate Chip Cookies
 
+
+
+This recipe is the latest version I've developed over the years since my cooking classes ended, and I'm confident it's the best one yet.
+Chef: Gülsüm Abanuzoğlu 
+
+
 ## Ingredients
 - 170 g brown sugar (about 1 cup)
 !  if you cant find brown sugar you can add grape molasses(pekmez) in white sugar , its not the perfect solution but better than only white sugar.
