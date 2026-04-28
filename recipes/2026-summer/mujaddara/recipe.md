@@ -24,3 +24,9 @@ Alles mischen
 Servieren
 → restliche Zwiebeln oben drauf
 → optional Joghurt oder Tahini dazu
+
+
+
+Sehr billig, aber extrem sättigend
+Perfekt für Meal Prep
+Geschmack kommt hauptsächlich von den Zwiebeln → überraschend intensiv
