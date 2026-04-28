@@ -17,3 +17,15 @@
 
 
 ## Instructions
+
+1. Mix the sugar and melted margarine well.  
+2. Add the egg and mix again.  
+3. Add flour, corn starch, salt, and vanilla. Mix until a dough forms.  
+4. Add the chopped chocolate and mix.  
+5. Let the dough rest in the fridge for about 20–30 minutes (recommended).  
+6. Shape the dough into small balls and place them on a baking tray.  
+7. Bake in a preheated oven at 160°C for 13–14 minutes.  
+
+## Notes
+- When you take the cookies out of the oven, they may look undercooked — THEY ARE DONE.  
+- Let them rest for 10–15 minutes before eating for the best texture.
