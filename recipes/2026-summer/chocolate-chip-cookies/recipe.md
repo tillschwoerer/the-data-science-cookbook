@@ -1,6 +1,6 @@
 # Chocolate Chip Cookies
 
-
+![Chocolate Chip Cookies](cookies.jpg)
 
 This recipe is the latest version I've developed over the years since my cooking classes ended, and I'm confident it's the best one yet.
 Chef: Gülsüm Abanuzoğlu 
