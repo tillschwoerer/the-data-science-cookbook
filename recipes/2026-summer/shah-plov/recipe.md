@@ -2,6 +2,12 @@
 
 
 
+!\[Shah Plov](shahplov.jpg)
+
+
+
+
+
 \* \*\*Prep time:\*\* 30 mins
 
 \* \*\*Cooking time:\*\* 2 hours
@@ -53,10 +59,6 @@
 5\. \*\*Baking:\*\* Brush the top with more melted butter. Bake in a preheated oven at 180°C for about 1 hour until the lavash crust is golden and crispy.
 
 
-
-
-
-!\[Shah Plov](shahplov)
 
 
 
