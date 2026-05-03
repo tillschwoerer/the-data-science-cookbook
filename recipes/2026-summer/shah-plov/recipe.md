@@ -52,3 +52,17 @@
 
 5\. \*\*Baking:\*\* Brush the top with more melted butter. Bake in a preheated oven at 180°C for about 1 hour until the lavash crust is golden and crispy.
 
+
+
+
+
+!\[Shah Plov](shahplov)
+
+
+
+\### Chef's Tips:
+
+\* To keep the crust crispy, let the pot rest for 5 minutes after taking it out of the oven. Then, flip it upside down onto a large serving plate.
+
+\* Serve by slicing through the top crust in a star pattern to reveal the aromatic interior.
+
