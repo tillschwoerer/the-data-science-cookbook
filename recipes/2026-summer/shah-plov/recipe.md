@@ -8,15 +8,21 @@
 
 
 
-\* \*\*Prep time:\*\* 30 mins
-
-\* \*\*Cooking time:\*\* 2 hours
-
-\* \*\*Servings:\*\* 6-8
+\## Stats
 
 
 
-\### Ingredients:
+\* \*\*Prep Time:\*\* 30 minutes
+
+\* \*\*Cooking Time:\*\* 2 hours
+
+\* \*\*Servings:\*\* 6 to 8
+
+
+
+\## Ingredients
+
+
 
 \* 3 cups Basmati rice
 
@@ -38,13 +44,15 @@
 
 \* A few strands of saffron
 
-\* Salt and black pepper to taste
+\* 1/2 tsp salt (or to taste)
+
+\* 1/2 tsp black pepper (or to taste)
 
 
 
 
 
-\### Cooking Instructions:
+\## Cooking Instructions
 
 
 
@@ -60,9 +68,9 @@
 
 
 
+\## Chef's Tips
 
 
-\### Chef's Tips:
 
 \* To keep the crust crispy, let the pot rest for 5 minutes after taking it out of the oven. Then, flip it upside down onto a large serving plate.
 
