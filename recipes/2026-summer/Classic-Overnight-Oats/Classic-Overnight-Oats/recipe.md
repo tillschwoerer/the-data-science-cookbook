@@ -6,7 +6,7 @@
 - 1/4 cup yogurt
 - 1 tsp chia seeds
 - Honey
-- Banana and berries
+- Banana and berries or any fruit of your choice
 
 ## Cooking Time
 5 minutes + overnight chilling
