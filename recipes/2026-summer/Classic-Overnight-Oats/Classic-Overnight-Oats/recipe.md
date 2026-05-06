@@ -1,5 +1,7 @@
 # Classic Overnight Oats
 
+![image](overnightoats.avif)
+
 ## Ingredients
 - 1/2 cup rolled oats
 - 1/2 cup milk
