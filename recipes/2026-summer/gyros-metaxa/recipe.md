@@ -11,13 +11,25 @@ Tip: Eat with fries or crunchy oven potato slices.
 
 ## Stats
 
-- Cooking Time: ...
-- Servings: ...
+- Prep time: ~10 minutes
+- Cooking Time: ~30 minutes
+- Servings: 4
 
 ## Ingredients
 
-- 1 kg Butter
-- 10 g Salt
+- 500g pork
+- 1 whole onion
+- 130g champignons
+- 1/2 red bell pepper
+- 1 garlic clove
+- 100g grated cheese (Gouda, Mozzarella,...)
+- 100ml cream
+- 100ml Crème fraîche
+- 3 large spoons Tomato paste
+- 3 large spoons Olive Oil
+- 2 large spoons gyros seasoning
+- 1/2 small spoon paprika seasoning
+- a pinch of salt, sugar, pepper
 
 ## Instructions
 
