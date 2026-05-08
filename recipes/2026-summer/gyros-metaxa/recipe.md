@@ -33,5 +33,9 @@ Tip: Eat with fries or crunchy oven potato slices.
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Cut the pork in fine strips and mix them with the gyros seasoning and some olive oil in a bowl.
+- Slice the Champignons and dice the bell pepper. Peel and chop up the garlic.
+- Heat some oil in a pan and lightly sauté the onions. Then add the Champignons, Bell Pepper and Garlic. Sauté with some salt, pepper and paprika seasoning until the vegetables go soft. Then remove from pan.
+- Heat some oil in the pan again and sear the meat from all sides. Add the vegetables back in together with the Metaxa, Cream, Crème fraîche, tomato paste and some sugar. Simmer for a short time. Then put it into a casserole dish and top with the grated cheese.
+- Pre-heat the oven to 180°C fan assisted (Umluft). Leave it in the oven for roughly 20 minutes.
+- Take out of the oven and enjoy :)
