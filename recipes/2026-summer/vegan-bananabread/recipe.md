@@ -18,6 +18,8 @@ For me, banana bread is the perfect easy and quick cake-like treat. My girlfrien
 - 135 ml vegetable milk (vegan like milk alternatives are recommended)
 - 150 g organic walnut kernels
 - 75 g chocolate drops
+- 1 tbsp vegetable butter
+- 1 tbsp spelt flour
 
 ## Instructions
 1. Preheat the oven to 180°C circulating air.
