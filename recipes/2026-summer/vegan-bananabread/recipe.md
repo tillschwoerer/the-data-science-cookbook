@@ -10,8 +10,14 @@ For me, banana bread is the perfect easy and quick cake-like treat. My girlfrien
 - Servings: 12 portions
 
 ## Ingredients
-- 1 kg Butter 
-- 10 g Salt
+- 300 g spelt flour
+- 10 g baking soda
+- Pinch of salt
+- 2 ripe bananas
+- 250 g applesauce
+- 135 ml vegetable milk (vegan like milk alternatives are recommended)
+- 150 g organic walnut kernels
+- 75 g chocolate drops
 
 ## Instructions
 - Step 1
