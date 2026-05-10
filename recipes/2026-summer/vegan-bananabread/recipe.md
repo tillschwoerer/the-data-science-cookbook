@@ -1,7 +1,7 @@
 # Vegan banana bread with walnuts & chocolate
 For me, banana bread is the perfect easy and quick cake-like treat. My girlfriend makes the best one, and I am always happy when she bakes it for us.
 
-![Alternative Title for your Image](image.jpg)
+![Vegan banana bread](image.jpg)
 
 **Provided by:** Frederik
 
