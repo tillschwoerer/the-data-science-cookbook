@@ -18,3 +18,6 @@ Short Description of the dish, and why it's special for you.
 - Step 2
 ## Serving Tip
 - Manti tastes best with garlic yogurt, melted butter, and a little paprika on top.
+
+## Personal Note
+- This dish is special to me because it is a traditional Turkish family meal.
