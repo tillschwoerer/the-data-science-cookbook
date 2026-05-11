@@ -32,7 +32,7 @@ freshly baked Yemeni flatbread (lahoh or khobz).
 - 1 tsp hawaij spice mix (or substitute: cardamom + cumin + black pepper)
 - Salt to taste
 - Fresh coriander (cilantro) for garnish
-- 1 green chili (optional)
+- 1 green chili (optional - but higly recommended) 
 
 ---
 
