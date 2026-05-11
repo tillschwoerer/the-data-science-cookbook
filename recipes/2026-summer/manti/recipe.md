@@ -16,3 +16,5 @@ Short Description of the dish, and why it's special for you.
 ## Instructions
 - Step 1
 - Step 2
+## Serving Tip
+- Manti tastes best with garlic yogurt, melted butter, and a little paprika on top.
